@@ -6,18 +6,10 @@ Hi! My name is **Ivan Moya**, and I am passionate about **web development**, **d
 
 ## What I Can Help You With
 
-- 🖥️ Web development projects (frontend and backend).
-- 📊 Digital analytics (Google Analytics 4, Adobe Analytics, Segment, GTM).
-- 📈 Data analysis and visualization using tools like BigQuery and Looker Studio.
+- 🖥️ Web development projects (Javascript, Bootstrap)
+- 📊 Digital analytics (GA4, Adobe Analytics, Twilio Segment, GTM).
+- 📈 Data analysis (SQL, Python) and visualization using tools like BigQuery and Looker Studio.
 - 🔧 Setting up tracking and measurement protocols for apps and websites.
-
----
-
-## My Tools of Choice
-
-- **Languages:** JavaScript, Python, SQL.
-- **Tools:** GA4, Segment.io, Adobe Analytics, BigQuery, Looker Studio.
-- **Platforms:** Web and mobile app tracking (Android, iOS).
 
 ---
 
