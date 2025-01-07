@@ -6,14 +6,8 @@ Hi! My name is **Ivan Moya**, and I am passionate about **web development**, **d
 
 ## What I Can Help You With
 
-- 🖥️ Web development projects (Javascript, Bootstrap)
+- 🖥️ Web development projects (Javascript, Bootstrap).
 - 📊 Digital analytics (GA4, Adobe Analytics, Twilio Segment, GTM).
 - 📈 Data analysis (SQL, Python) and visualization using tools like BigQuery and Looker Studio.
 - 🔧 Setting up tracking and measurement protocols for apps and websites.
-
----
-
-## How to Reach Me
-
-Feel free to reach out for any questions, collaboration opportunities, or just to say hi!
 
