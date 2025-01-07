@@ -1,16 +1,27 @@
 ## Hi there 👋
 
-<!--
-**mojudev/mojudev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi! My name is **Ivan Moya**, and I am passionate about **web development**, **data**, and **digital analytics**. I enjoy tackling challenges, learning new technologies, and collaborating with others to create impactful solutions.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I Can Help You With
+
+- 🖥️ Web development projects (frontend and backend).
+- 📊 Digital analytics (Google Analytics 4, Adobe Analytics, Segment, GTM).
+- 📈 Data analysis and visualization using tools like BigQuery and Looker Studio.
+- 🔧 Setting up tracking and measurement protocols for apps and websites.
+
+---
+
+## My Tools of Choice
+
+- **Languages:** JavaScript, Python, SQL.
+- **Tools:** GA4, Segment.io, Adobe Analytics, BigQuery, Looker Studio.
+- **Platforms:** Web and mobile app tracking (Android, iOS).
+
+---
+
+## How to Reach Me
+
+Feel free to reach out for any questions, collaboration opportunities, or just to say hi!
+
