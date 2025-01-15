@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm **Ivan Moya**, and I'm passionate about **web development**. **digital analytics** and *data*. I enjoy on tackling challenges, learning new technologies, and collaborating with others to create impactful solutions.
+I'm **Ivan Moya**, and I'm passionate about **web development**. **digital analytics** and **data**. I enjoy on tackling challenges, learning new technologies, and collaborating with others to create impactful solutions.
 
 ## My Skills and Expertise
 
